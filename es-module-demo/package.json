@@ -1,0 +1,17 @@
+{
+  "name": "es-module-demo",
+  "version": "1.0.0",
+  "description": "this is to learn es module",
+  "main": "one.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es",
+    "module",
+    "demo"
+  ],
+  "author": "Harsh Agarwal",
+  "license": "ISC"
+}
